@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PatronesU3Examenv1
+{
+    interface IEstiloCertificado
+    {
+        string ObtenerEncabezado();
+        string ObtenerPie();
+    }
+}
