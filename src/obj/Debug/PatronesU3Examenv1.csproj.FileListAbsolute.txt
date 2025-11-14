@@ -1,0 +1,8 @@
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\bin\Debug\PatronesU3Examenv1.exe.config
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\bin\Debug\PatronesU3Examenv1.exe
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\bin\Debug\PatronesU3Examenv1.pdb
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\obj\Debug\PatronesU3Examenv1.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\obj\Debug\PatronesU3Examenv1.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\obj\Debug\PatronesU3Examenv1.exe
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\obj\Debug\PatronesU3Examenv1.pdb
+C:\Users\jorge\Desktop\PatronesDiseño\PatronesU3Examenv1\PatronesU3Examenv1\obj\Debug\PatronesU3Examenv1.exe.config
